@@ -51,6 +51,9 @@
 ![](https://streak-stats.demolab.com/?user=0907anita&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0907anita&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=0907anita&icon=2&color=0)](https://visitcount.itsvg.in)
+
 ## What I do
 
 - Build scalable full-stack web applications
