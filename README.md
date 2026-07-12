@@ -1,6 +1,6 @@
 # Hi, I'm Anita 👋
 
-**Gen AI Full Stack Developer** 💻 with 4.6+ years of experience building web applications across the MEAN and MERN stacks. I like solving problems, writing clean code, and building things people actually enjoy using.
+**Gen AI Full Stack Developer** 💻 with 4.6+ years of experience delivering scalable, secure, and high-performance web applications. Skilled in MEAN, MERN, TypeScript, SQL, and Generative AI technologies, with a strong focus on performance optimization, clean code, reusable architectures, and seamless user experiences.
 
 ## What I work with
 
