@@ -46,29 +46,42 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-# 📊 GitHub Stats:
+## What I do
+
+- Architect and build scalable full-stack web applications end to end
+- Design, integrate, and secure RESTful APIs
+- Build reusable, responsive UI components and design systems
+- Optimize performance across frontend, backend, and database layers
+- Review code, uphold quality standards, and mentor within Agile/Scrum teams
+- Explore and apply Generative AI to real product problems
+
+## 📈 Currently Exploring
+
+Generative AI, AI agents, advanced system design, cloud & DevOps, microservices architecture
+
+
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.shion.dev/api?username=0907anita&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=0907anita&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0907anita&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=0907anita&theme=darkhub&no-frame=true&row=1&column=6)
+
+## 📅 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=0907anita&theme=react-dark&hide_border=false)
+
 ---
+
 [![](https://komarev.com/ghpvc/?username=0907anita&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## What I do
+## 🤝 Let's Connect
 
-- Build scalable full-stack web applications
-- Design and integrate RESTful APIs
-- Write reusable, responsive UI components
-- Optimize performance across the stack
-- Work in Agile/Scrum teams
+Always open to collaborating on interesting projects, discussing system design, or talking through new ideas in web development and AI.
 
-## Currently learning
-
-Generative AI, AI agents, advanced system design, cloud & DevOps, microservices architecture
-
-## Let's connect
-
-Always open to collaborating on interesting projects or talking through new ideas.
 <!---
 0907anita/0907anita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
