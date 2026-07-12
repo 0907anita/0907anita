@@ -46,6 +46,11 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Manojbhati23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Manojbhati23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manojbhati23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## What I do
 
 - Build scalable full-stack web applications
