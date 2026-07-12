@@ -3,7 +3,7 @@
 **Gen AI Full Stack Developer** 💻 with 4.6+ years of experience delivering scalable, secure, and high-performance web applications. Skilled in MEAN, MERN, TypeScript, SQL, and Generative AI technologies, with a strong focus on performance optimization, clean code, reusable architectures, and seamless user experiences.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_anita_explores/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anita-choudhary-229608197/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@explorewithanita09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:09anita07choudhary@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itsanitacodesandtravels/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anita-choudhary-229608197/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@explorewithanita09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:09anita07choudhary@gmail.com) 
 
 ## What I work with
 
