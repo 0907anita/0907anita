@@ -66,9 +66,6 @@ Generative AI, AI agents, advanced system design, cloud & DevOps, microservices 
 ![](https://streak-stats.demolab.com/?user=0907anita&theme=tokyonight&hide_border=true&border_radius=10)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0907anita&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=0907anita&theme=darkhub&no-frame=true&row=1&column=6)
 
 ## 📅 Contribution Graph
 
